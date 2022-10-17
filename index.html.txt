@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+ 	<head>		
+    	<style>        
+			div{
+            	width:150px;
+                padding:5px;
+                border:5px black solid;
+                margin:40px;
+                background:lightblue;
+                
+            }
+            img{
+                border-radius: 20px;
+                }
+            #qq{
+                color:black;
+                   }
+            #gg{
+                text-decoration: underline;
+                }
+            #ww{
+                text-shadow:1px 2px 3px yellow;
+                }
+         </style>
+		<title>自我介紹</title>
+        <meta charest="utf-8">
+	</head>
+	<body>
+           <section id="qq">
+           <section id="gg">
+           <section id="ww">
+              <div style="width:320px;padding:20px;border:20px red olid;margin:50px;">         
+                     <ul>
+         			   <h3>
+                    	   <div style="background-color:orange;">
+         					  <li>學號:
+         						<strong>10911120</strong>
+         					  </li>
+         				  </div>
+         			   </h3>
+                     </ul>        
+			<img src="https://www.tkbtv.com.tw/p20200825BC070_1100_380/toPic.action"height="100px">
+                 <h3>
+                     <div style="background-color:orange;">
+                         <li>姓名:     
+                             <strong>林子青</strong>
+                         </li>
+                     </div>
+                 </h3>
+                 <o>
+                    <div style=":250px;padding:10px;border:5px black solid;margin:30px;"> 星座:     
+            <strong>處女座</strong>
+                       <p> 來自哪裡:<strong>新北板橋</strong>
+                       </p> 
+                    </div>
+                 <h3>
+                            <div style="background-color:orange;">
+                        <li>學系班級: 
+            <strong>資工三甲</strong>
+                       </li>
+                           </div>
+                 </h3>
+                  <p>
+                      <div style=":250px;padding:10px;border:5px black solid;margin:30px;"> 興趣:     
+             <strong>打球、玩電腦</strong>
+                  </p>
+                   <o> 優點:<strong>大方、善良、有毅力</strong>
+                  <p> 缺點:<strong>粗心大意</strong> 、<strong>容易分心</strong>
+                  </p>
+
+                      </div>
+
+           <a href="https://www.w3schools.com/">自我介紹</a>
+
+</body>
+</html>
